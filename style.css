@@ -1480,7 +1480,7 @@ input[type='range']::-moz-range-thumb {
       grid-template-columns: 1fr;
    }
    .footer-inner-div {
-      height: 300px;
+      min-height: 300px;
    }
 }
 
